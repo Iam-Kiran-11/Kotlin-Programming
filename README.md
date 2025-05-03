@@ -16,21 +16,21 @@ Ans: `Kotlin is a versatile language. It is the officially supported language fo
 
 3. **Basic syntax, Data Types and Type Declaration and Variables**<br>
 Ans: <br>
-*Basic Syntax like:-*
+    *Basic Syntax like:-*
     `fun main() —> program starts from here/entry point of the program.`
     `println() —> prints the output of a program`
-     
-*Data Types like:-*
+
+    *Data Types like:-*
     `int —> whole number(e.g. 4 )`
     `Double —> Decimal numbers(e.g. 4.31)`
     `Boolean → true or false`
     `Char → single character (e.g. B)`
     `String → text (e.g. ‘’Hii”)`
-     
-*Type declaration:-*
+
+    *Type declaration:-*
     `like “Hello” is declared as string`
-     
-*Variables:-*
+    
+    *Variables:-*
     `val → can’t be changed after assigned`
     `var → can be changed` 
 
