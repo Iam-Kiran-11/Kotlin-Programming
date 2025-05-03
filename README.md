@@ -23,28 +23,33 @@ Ans: <br>
     *Data Types like:-*<br>
     `int —> whole number(e.g. 4 )`<br>
     `Double —> Decimal numbers(e.g. 4.31)`<br>
-    `Boolean → true or false`<br>
-    `Char → single character (e.g. B)`<br>
-    `String → text (e.g. ‘’Hii”)`
+    `Boolean -> true or false`<br>
+    `Char -> single character (e.g. B)`<br>
+    `String -> text (e.g. ‘’Hii”)`
 
     *Type declaration:-*<br>
     `like “Hello” is declared as string`
 
     *Variables:-*<br>
-    `val → can’t be changed after assigned`<br>
-    `var → can be changed` 
+    `val -> can’t be changed after assigned`<br>
+    `var -> can be changed` 
 
 4. **Comments**<br>
-Ans: `In kotlin, comments are used to explain the code and make it readable for users/programmers. Types of comments- single line comment, multi-line comment, etc.`
+Ans: `In kotlin, comments are used to explain the code and make it readable for users/programmers.`<br> 
+
+   `Types of comments-> single line comment, multi-line comment, etc.`
 
 5. **Main function**<br>
-Ans: `Main function is a special function in Kotlin programming where the code is written inside the main() function or called from it. Function is 1st defined in a code and it can also require some inputs. Function definition starts with “fun” and the name of that is “main” i.e., fun main().`
+Ans: `Main function is a special function in Kotlin programming where the code is written inside the main() function or called from it. Function is 1st defined in a code and it can also require some inputs.`<br>
+
+   `Function definition starts with “fun” and the name of that is “main” i.e., fun main().`
 
 6. **Print Statement**<br>
 Ans: `Print statement is used to display the output of a code in Kotlin. Two ways to display`<br>
-output:-<br>
-`1. print() → prints without a new line.`<br>
-`2. println() → prints with a new line.`
+
+   output:-<br>
+   `1. print() -> prints without a new line.`<br>
+   `2. println() -> prints with a new line.`
 
 7. **Constants**<br>
 Ans: `Constants are used to store fixed values in a code that don’t change during programming. Constants are declared using val and const val.`
@@ -53,8 +58,8 @@ Ans: `Constants are used to store fixed values in a code that don’t change dur
 Ans: `String is a sequence of characters enclosed by double quotes.`<br>
 
    Two types of string literals:-<br> 
-   **1.** `Escaped string → uses special characters like \n(for new line) and \t(tab)`<br>
-   **2.** `Raw string → uses triple quotes “ “ “ to multi-line text without escape characters. String interpolation uses the syntax ‘$’ to interpolate variables directly into strings.`
+   **1.** `Escaped string -> uses special characters like \n(for new line) and \t(tab)`<br>
+   **2.** `Raw string -> uses triple quotes “ “ “ to multi-line text without escape characters. String interpolation uses the syntax ‘$’ to interpolate variables directly into strings.`
 
 9. **Readline**<br>
 Ans: `Readline (readline() ) is used to take inputs from the users/programmers.`
