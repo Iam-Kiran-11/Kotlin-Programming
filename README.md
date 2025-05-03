@@ -9,12 +9,15 @@
 **KOTLIN** **BASIC**
 
 1. **What is kotlin**
-Ans: `Kotlin is a modern language. Apps that are made using this are less likely to crash and are more stable and robust apps for users.`
+<br>
+Ans: Kotlin is a modern language. Apps that are made using this are less likely to crash and are more stable and robust apps for users.
 
 2. **Use of kotlin in android and server side and multi-platform**
-Ans: `Kotlin is a versatile language. It is the officially supported language for android development and used to build apps with less code. Kotlin-based framework provides simple and lightweight APIs for server side applications like web services. Once a code is written it can be used in Android, ios, web, desktop, etc.`
+<br>
+Ans: Kotlin is a versatile language. It is the officially supported language for android development and used to build apps with less code. Kotlin-based framework provides simple and lightweight APIs for server side applications like web services. Once a code is written it can be used in Android, ios, web, desktop, etc.
 
 3. **Basic syntax, Data Types and Type Declaration and Variables**
+<br>
 Ans: *Basic Syntax like:-*
      `fun main() —> program starts from here/entry point of the program.`
      `println() —> prints the output of a program`
